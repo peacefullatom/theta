@@ -1,4 +1,4 @@
-# [Module 1. Angular introduction. Angular-cli.](../module-1/index.md) (Aleksandr Linkov)
+# [Module 1. Angular introduction. Angular-cli.](./module-1/index.md) (Aleksandr Linkov)
 
 Рассмотреть базовые команды при создании проекта через _angular-cli_.
 
@@ -16,7 +16,7 @@
 
 **Задание**: _создать новый проект, подключить ng-bootstrap._
 
-# [Module 2. Components.](../module-2/index.md) (Kirill Sklyarov)
+# [Module 2. Components.](./module-2/index.md) (Kirill Sklyarov)
 
 Темплейт синтаксис.
 
@@ -36,7 +36,7 @@
 
 **Задание**: _сверстать главную страницу, header, footer._
 
-# [Module 3. Components interaction.](../module-3/index.md) (Yuriy Markov)
+# [Module 3. Components interaction.](./module-3/index.md) (Yuriy Markov)
 
 _@Input_, _@Output_ декораторы.
 
