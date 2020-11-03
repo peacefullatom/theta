@@ -50,7 +50,7 @@ _Pipes_ in templates.
 
 **Задание**: _закончить верстку. Добавить получение данных из сервиса. Добавить пайп._
 
-# Module 4. Directives (structural and attributive). (Kostiatyn Kharlap)
+# [Module 4. Directives (structural and attributive).](./module-4/index.md) (Kostiatyn Kharlap)
 
 Структурные директивы: _\*ngIf_, _\*ngFor_.
 
